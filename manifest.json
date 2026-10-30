@@ -1,7 +1,7 @@
 {
 	"name": "Fast Reopen",
-	"manifest_version": 2,
-	"version": "1.0.0",
+	"manifest_version": 3,
+	"version": "1.0.2",
 	"description": "Keep the browser running in background for faster startup",
 	"author": "Vipin Yadav",
 	"homepage_url": "https://www.webtiara.com/",
@@ -9,10 +9,13 @@
 		"background"
 	],
 	"icons": {
-		"16": "./src/logo.png",
-		"32": "./src/logo32.png",
-		"64": "./src/logo64.png",
-		"128": "./src/logo128.png",
-		"256": "./src/logo256.png"
+		"16": "src/logo.png",
+		"32": "src/logo32.png",
+		"64": "src/logo64.png",
+		"128": "src/logo128.png",
+		"256": "src/logo256.png"
+	},
+	"action": {
+		"default_icon": "src/logo32.png"
 	}
 }

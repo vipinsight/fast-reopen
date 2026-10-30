@@ -1,21 +1,20 @@
 # Privacy Policy
 
-Your data always belongs to you, and only you. We does not collect any data.
+Your data always belongs to you, and only you. Fast Reopen does not collect any data.
 
 ## How your data is protected and used
 
-- By default, We does not send any data to our servers or any third parties. All your data is processed and stored locally on your device.
-- If you connect your account, data is only transmitted from your browser to servers belonging to the connected account.
-- If you enable the "synchronize options" setting, your options will be sent to servers belonging to the vendor of the browser you are using.
-- When processing a page, We needs to inject temporary data into the page to save it accurately. We can download resources that are not displayed or not already cached but present in the page. When using our extendion in Chromium-based browsers, websites can fetch resources declared in the "web_accessible_resources" section of the manifest.json file. Because of this, a website may be able to detect you are using our extension or have saved a page on the website with us.
+- Fast Reopen does not send any data to our servers or to any third parties. It makes no network requests.
+- The extension contains no scripts. It only requests the browser's "background" permission, which keeps the browser running in the background after you close its last window so it can start faster.
+- It does not read, store or sync any browsing data, page content or settings.
 
 ## Customer support
 
-When you request for customer support, we may ask for your email address to get back to you.
+When you request customer support, we may ask for your email address to get back to you.
 
 ## Changes to our privacy policy
 
-We keep our privacy notice under regular review and we will place any updates on this document. This privacy notice was last updated on June 2020.
+We keep our privacy notice under regular review and will place any updates on this document. This privacy notice was last updated in October 2026.
 
 ## How to contact us
 
